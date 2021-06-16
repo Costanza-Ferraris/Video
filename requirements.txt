@@ -1,6 +1,6 @@
 pandas
 numpy
-matplotlib.pyplot
+matplotlib
 seaborn
 pandas_datareader
 datetime
